@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shiv122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shiv
+- 👀 I’m interested in Solving problems
+- 🌱 I’m currently learning react.js and django
+- 
+- 📫 Mail : shivtiwari627@gmail.com 
 
 <!---
 shiv122/shiv122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
