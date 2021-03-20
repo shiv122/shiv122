@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shiv
 - 👀 I’m interested in Solving problems
 - 🌱 I’m currently learning react.js and django
-- 
 - 📫 Mail : shivtiwari627@gmail.com 
 
 <!---
