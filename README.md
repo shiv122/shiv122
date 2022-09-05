@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv
 - 👀 I’m interested in Solving problems
-- 🌱 I’m currently learning react.js and django
+- 🌱 I’m currently learning react.js,vue and node.js
 - 📫 Mail : shivtiwari627@gmail.com 
 
 <!---
