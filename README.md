@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv
 - 👀 I’m interested in Solving problems
-- 🌱 I’m currently learning react.js,vue and node.js
+- 🌱 I’m currently learning react.js,vue, node js and in love with svelte
 - 📫 Mail : shivtiwari627@gmail.com 
 
 <!---
